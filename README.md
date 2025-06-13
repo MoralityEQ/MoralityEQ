@@ -1,4 +1,4 @@
-## Hi there 👋
+A universal morality equation (M = ζ - S) and implementation frameworks for aligning AI, social platforms, and institutions.
 
 <!--
 **MoralityEQ/MoralityEQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
