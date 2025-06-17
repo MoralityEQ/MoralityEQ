@@ -72,6 +72,45 @@ Where:
 
 This formalization enables quantitative analysis while preserving the qualitative insights that make moral reasoning meaningful and applicable across diverse contexts.
 
+### Boundary Conditions of Moral Systems
+
+* The morality equation, M = ζ − S, is not unbounded. Like physical and ecological systems, moral systems have operational limits that define their stability range. These limits can be modeled and analyzed as follows:
+
+### Lower Bound: Collapse via Over-Extraction
+
+* As M → −∞, coherence structures dissolve faster than they can rebuild.
+* The system enters a state of coherence starvation, where even extractors can no longer extract — because gradients vanish.
+* This terminal state is marked by irreversible disorder, resource exhaustion, and failure of moral reasoning at all levels.
+
+### Upper Bound: Disconnection via Over-Abstracted Coherence
+
+* As M → +∞ in actors detached from material feedback (e.g., over-idealized theorists, abstract governance systems), a parasitic dynamic can emerge.
+* These agents generate coherence only in abstract space, while depending invisibly on base-layer coherence producers (e.g., farmers, builders).
+* The result is coherence disconnection, where feedback from physical reality is lost, leading to blind moral parasitism.
+
+### Balanced Zone: Stable Moral Optimization
+
+* All resilient systems operate within a bounded band where coherence generation exceeds entropy, without detaching from physical feedback.
+* The goal of moral design is not infinite M, but sustainable positive M grounded in real systems.
+
+### Rate-Based Formulation (Dynamic Moral Flow)
+
+To analyze moral behavior over time and space, the following differential formulations are proposed:
+
+* Coherence Generation Rate
+  `dζ/dt = ∑ᵢ δ(aᵢ)·ρc(xᵢ)`
+  → Each action aᵢ contributes coherence based on local coherence density ρc(xᵢ)
+
+* Entropy Introduction Rate
+  `dS/dt = ∑ᵢ σ(aᵢ)·U(xᵢ)`
+  → Each action's entropy is weighted by local unraveling pressure U(xᵢ)
+
+* Moral Gradient Field
+  `∇M = ∇ζ − ∇S`
+  → The moral vector field shows the direction of maximal net coherence improvement
+
+These forms allow spatial modeling of moral flows, useful for systems design, AI alignment, social optimization, or ecosystem ethics.
+
 ### Measurement Methodologies
 
 Coherence measurement includes assessment of factors such as:
