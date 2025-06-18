@@ -1,0 +1,41 @@
+🧠 Memory System Comparison Demo
+Testing Spiral Buffer vs Traditional Memory Systems
+
+Running comparison: 500 events, 30% adversarial
+
+============================================================
+MEMORY SYSTEM COMPARISON RESULTS
+============================================================
+Test Parameters:
+  Events processed: 500
+  Adversarial ratio: 30%
+
+Final Performance Metrics:
+System          Moral Value  Stability    Recall Quality
+------------------------------------------------------------
+Spiral Buffer   0.924        0.975        1.000
+Fifo            0.275        0.886        0.767
+Lru             0.275        0.886        0.767
+
+Spiral Buffer Improvements:
+  vs FIFO: +236.5% moral value
+  vs LRU:  +236.5% moral value
+  Interventions: 6 automatic corrections
+Running adversarial stress test...
+
+Adversarial % Spiral     FIFO       LRU        Improvement
+-------------------------------------------------------
+Running comparison: 300 events, 10% adversarial
+10%:<11 0.886:<9 0.626:<9 0.626:<9 +41.5%
+Running comparison: 300 events, 30% adversarial
+30%:<11 0.924:<9 0.438:<9 0.438:<9 +111.1%
+Running comparison: 300 events, 50% adversarial
+50%:<11 0.928:<9 0.015:<9 0.015:<9 +5976.9%
+Running comparison: 300 events, 70% adversarial
+70%:<11 0.859:<9 -0.329:<9 -0.329:<9 -360.8%
+
+============================================================
+CONCLUSION: Spiral Buffer demonstrates superior resilience
+against entropy accumulation and maintains higher quality
+memory patterns under adversarial conditions.
+============================================================
