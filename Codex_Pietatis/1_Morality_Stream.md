@@ -40,7 +40,7 @@ Let:
 * **S** = entropy introduced
   Then:
 * **M = ζ − S**
-  This is the **moral output** of any system, action, or agent — a scalar measure of contribution to structural integrity.
+  This is the **moral output** of any system, action, or agent, a scalar measure of contribution to structural integrity.
 
 ---
 
