@@ -1,5 +1,3 @@
----
-
 ### **1. Start from Nothing**
 
 * Absolute stillness: no pattern, no difference, no time.
